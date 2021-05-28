@@ -120,7 +120,7 @@
     "remove-markdown": "0.1.0",
     "speakingurl": "10.0.0",
     "striptags": "2.1.1",
-    "tinymce": "^4.6.1",
+    "tinymce": "^5.7.1",
     "updeep": "0.16.0"
   },
   "engines": {
